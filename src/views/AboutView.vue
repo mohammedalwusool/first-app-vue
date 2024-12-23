@@ -7,10 +7,10 @@
 
 <script>
 // @ is an alias to /src
-import WelcomeMsg from "@/components/temp.vue";
+import WelcomeMsg from '@/components/temp.vue';
 
 export default {
-  name: "AboutView",
+  name: 'AboutView',
   components: {
     WelcomeMsg,
   },

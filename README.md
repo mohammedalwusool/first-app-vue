@@ -32,4 +32,6 @@ npm run lint
 
 ### Customize configuration
 
+npx prettier --write .
+
 See [Configuration Reference](https://cli.vuejs.org/config/).

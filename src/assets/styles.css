@@ -1,0 +1,22 @@
+.floating-button {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  z-index: 1030;
+  background-color: rgb(6, 133, 187);
+  color: white;
+  border: none;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  width: 60px;
+  height: 60px;
+  font-size: 25px;
+}
+
+.floating-button:hover {
+  background-color: rgb(2, 109, 112);
+}
+
+.form-container {
+  max-width: 400px;
+  margin: 0 auto;
+}

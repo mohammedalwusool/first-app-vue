@@ -2,5 +2,5 @@
   <div class="home"><p>hello world</p></div>
 </template>
 <script>
-export default { name: "WelcomeMsg" };
+export default { name: 'WelcomeMsg' };
 </script>

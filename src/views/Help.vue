@@ -6,6 +6,6 @@
 </template>
 <script>
 export default {
-  name: "help-page",
+  name: 'help-page',
 };
 </script>

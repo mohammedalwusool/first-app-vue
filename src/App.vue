@@ -3,9 +3,9 @@
   <router-view />
 </template>
 <script>
-import HeaderApp from "@/components/Header.vue";
+import HeaderApp from '@/components/Header.vue';
 export default {
-  name: "App",
+  name: 'App',
   components: {
     HeaderApp,
   },

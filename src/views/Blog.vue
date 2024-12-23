@@ -5,6 +5,6 @@
 </template>
 <script>
 export default {
-  name: "blog-page",
+  name: 'blog-page',
 };
 </script>
