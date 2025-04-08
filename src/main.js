@@ -8,6 +8,7 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 import 'bootstrap-icons/font/bootstrap-icons.css';
 import './assets/styles.css';
 import { globalStore } from './store/globalStore.js';
+import './registerServiceWorker';
 // Create the Vue app
 const app = createApp(App);
 app.provide('globalStore', globalStore);
